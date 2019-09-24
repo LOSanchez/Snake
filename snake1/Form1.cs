@@ -131,7 +131,7 @@ namespace snake1
             {
                 comida.colocar();
                 cabeza.meter();
-                puntos.Text = (puntaje++).ToString();
+                puntos.Text = (++puntaje).ToString();
             }
         }
     }

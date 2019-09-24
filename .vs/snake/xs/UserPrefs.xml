@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{21DF4F06-F30E-4A5A-A3B9-F321A4DDD69D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="snake1/Comida.cs">
+    <Files>
+      <File FileName="snake1/objeto.cs" Line="1" Column="1" />
+      <File FileName="snake1/Form1.cs" Line="139" Column="1" />
+      <File FileName="snake1/Comida.cs" Line="1" Column="1" />
+      <File FileName="snake1/Cola.cs" Line="1" Column="1" />
+      <File FileName="snake1/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="snake" expanded="True">
+            <Node name="snake1" expanded="True">
+              <Node name="Form1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.snake1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
